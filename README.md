@@ -21,8 +21,10 @@ Builds a basic web spider, stores crawled pages in SQLite, computes PageRank, an
 - D3.js
 - VS Code
 
-## Live Demo
-View the 25-node force graph from Run 2 on GitHub Pages: <your-pages-url>
+## 🔗 Live Demo (GitHub Pages)
+Interactive PageRank graph (top 25 nodes):
+https://bibhu342.github.io/py4e-pagerank/force.html
+
 
 ## Reproduce Locally
 ```bash
