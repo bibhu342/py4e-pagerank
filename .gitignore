@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# SQLite DB dumps
+*.sqlite
+spider.js
+
+# OS crap
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
