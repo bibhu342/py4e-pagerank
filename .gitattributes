@@ -1,8 +1,8 @@
 # Normalize line endings
 * text=auto
 
-# Keep these as text (LF in repo)
-*.py text eol=lf
+# Keep these as LF in repo (consistent on all OS)
+*.py  text eol=lf
 *.html text eol=lf
 *.css text eol=lf
 *.js  text eol=lf
